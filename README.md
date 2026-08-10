@@ -40,7 +40,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- 「YOUR_GITHUB_USERNAME」の部分をご自身のGitHubユーザー名に変更してください -->
   <img src="https://github-readme-stats.vercel.app/api?username=amano02&show_icons=true&bg_color=4b0000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amano02&layout=compact&bg_color=4b0000&title_color=ffffff&text_color=ffffff&hide_border=true" height="165" alt="Top Languages" />
 </div>
